@@ -30,9 +30,13 @@ I enjoy meeting new people and hearing new perspectives. Reach out if you want t
 • Darkweb Intelligence <br>
 
 ### 🤝 Connect with me: 
-💬 <a href="https://linkedin.com/in/niyati-daftary"> LinkedIn </a> 
-
+<!-- 💬 <a href="https://linkedin.com/in/niyati-daftary"> LinkedIn </a> -->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Niyati-Daftary)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/niyati-daftary/)
 
 ### 📈 GitHub Stats:
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Niyati-Daftary)](https://github.com/Niyati-Daftary)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Niyati-Daftary)
+
+![Profile views](https://gpvc.arturio.dev/Niyati-Daftary)  
