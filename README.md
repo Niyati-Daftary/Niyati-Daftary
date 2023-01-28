@@ -30,7 +30,7 @@ I enjoy meeting new people and hearing new perspectives. Reach out if you want t
 • Darkweb Intelligence <br>
 
 ### 🤝 Connect with me: 
-💬 <a href="linkedin.com/in/niyati-daftary"> LinkedIn </a> 
+💬 <a href="https://linkedin.com/in/niyati-daftary"> LinkedIn </a> 
 
 
 ### 📈 GitHub Stats:
