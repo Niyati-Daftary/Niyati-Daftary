@@ -1,4 +1,4 @@
-### Hi there 👋 I am Niyati
+### Hi there, Thanks for visiting my profile 👋
 
 I am a highly motivated Cyber Security Professional with 3+ years of experience in cybersecurity with an Industry exposure to Banking, Finance, Insurance and Energy Sectors. 
 
