@@ -39,7 +39,8 @@ I enjoy meeting new people and hearing new perspectives. Reach out if you want t
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Niyati-Daftary)
 
-![Profile views](https://gpvc.arturio.dev/Niyati-Daftary)  
+![Profile views](<p align="left"> <img src="https://komarev.com/ghpvc/?username=niyati-daftary&label=Profile%20views&color=0e75b6&style=flat" alt="niyatidaftary" /> </p>)
+  
 
 ### 🙌 Support:
 <p><a href="https://www.buymeacoffee.com/niyatidaftary"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="niyatidaftary" /></a></p><br><br>
